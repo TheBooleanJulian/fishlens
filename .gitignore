@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+fishlens.db
+*.db
+node_modules/
+.venv/
